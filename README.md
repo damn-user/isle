@@ -1,4 +1,4 @@
-# Dynamic Island for Windows / Linux (PyQt6) 🏝️
+# Dynamic Island for Windows (PyQt6) 🏝️
 
 **An interactive "Dynamic Island" styled control panel that sits at the top of your screen, providing quick access to a media player, QR code generator, and clipboard history.**
 
