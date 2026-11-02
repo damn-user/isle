@@ -4,7 +4,7 @@
 
 ## ⚠️ Project Under Active Development
 
-> **[📥 Download Latest Version for Windows]([https://github.com](https://github.com/damn-user/isle/releases)**
+> **[📥 Download Latest Version for Windows](https://github.com/damn-user/isle/releases)**
 
 *Note: The project is under active development. Windows Defender may show a warning on the first launch because the executable is not digitally signed yet. Click "More info" -> "Run anyway" to start. For convenience, add "isle" to your startup programs.*
 
