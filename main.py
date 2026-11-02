@@ -6,6 +6,9 @@ from PyQt6.QtMultimedia import QMediaPlayer, QAudioOutput
 from pathlib import Path
 import qrcode
 
+if getattr(sys, 'frozen', False) and hasattr(sys, '_MEIPASS'):
+    os.chdir(sys._MEIPASS)
+
 def set_win_app_id():
     if sys.platform == 'win32':
         try:
