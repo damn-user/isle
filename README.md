@@ -30,7 +30,7 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.comhttps://github.com/damn-user/isle
+git clone https://github.com/damn-user/isle
 cd your_repository
 ```
 
